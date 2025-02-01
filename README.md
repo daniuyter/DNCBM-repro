@@ -171,15 +171,3 @@ This repository uses code from the following repositories:
 * [openai/CLIP](https://github.com/openai/CLIP)
 * [ai-safety-foundation/sparse_autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder/)
 
-## Citation
-
-Please cite as follows:
-
-```tex
-@inproceedings{Rao2024Discover,
-    author    = {Rao, Sukrut and Mahajan, Sweta and B\"ohle, Moritz and Schiele, Bernt},
-    title     = {Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery},
-    booktitle = {European Conference on Computer Vision},
-    year      = {2024}
-}
-```
