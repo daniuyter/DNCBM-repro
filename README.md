@@ -13,6 +13,7 @@
 ## Below, we have adapted the original README.md file from the authors of the paper, which can be found <a href="https://github.com/neuroexplicit-saar/Discover-then-Name/blob/main/README.md">here</a>.
 </div>
 
+## <a href="https://arxiv.org/abs/2407.14499"> Original Paper </a>
 ## Setup
 
 ### Prerequisites
