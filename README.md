@@ -5,6 +5,9 @@
 1. Download this repository and put it in your Google Drive
 2. Download <a href="https://drive.google.com/drive/folders/1Sy5qPX0tr2rLEI_6Sh5ZqTC-0kfKlLUL?usp=share_link">this</a> folder, and place the 2 folders inside this repository.
 3. Open the notebook inside the repository on Google Colab
+
+### Below are the instructions to recreate the visualizations we used for our results, as well as the code used to generate the survey images.
+1. Download <a href="https://drive.google.com/file/d/1XP7samu_RD6AvsebWm1DndVr8OcTy0YP/view?usp=sharing">this</a> folder
    
 
 
