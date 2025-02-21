@@ -1,4 +1,4 @@
-<h1 align="center">Reproducability Study: Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery</h1>
+<h1 align="center">Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery - A Replication Study</h1>
 
 
 ### For an interactive walkthrough including our results, as well as some visualizations:
