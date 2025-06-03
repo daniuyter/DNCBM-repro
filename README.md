@@ -1,4 +1,4 @@
-<h1 align="center">Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery - A Replication Study</h1>
+<h1 align="center">Revisiting Discover-then-Name Concept Bottleneck Models: A Reproducibility Study</h1>
 <h3 align="center">Freek Byrman, Daniel Uyterlinde, Bart Kuipers and Emma Kasteleyn</h3>
 
 ### For an interactive walkthrough including our results, as well as some visualizations:
