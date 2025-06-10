@@ -171,7 +171,7 @@ python scripts/visualization/vis_local_explanations_plot.py --sae_dataset cc3m -
 ```
 
 ## Acknowledgements
-We would like to thank the original authors for their comprehensive codebase and interesting paper.
+We would like to thank the original authors for their comprehensive codebase and paper.
 
 This repository uses code from the following repositories:
 
